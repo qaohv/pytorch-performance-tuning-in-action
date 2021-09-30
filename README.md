@@ -1,6 +1,6 @@
 # Pytorch performance tuning in action
 
-Code for article: [TODO]
+Code for [article](https://medium.com/deelvin-machine-learning/pytorch-performance-tuning-in-action-7c4d065d4278) PyTorch performance tuning in action
 
 ## Requirements
 
@@ -11,7 +11,7 @@ Code for article: [TODO]
 
 ## Dataset
 
-https://www.kaggle.com/tapakah68/supervisely-filtered-segmentation-person-dataset
+Download [dataset](https://www.kaggle.com/tapakah68/supervisely-filtered-segmentation-person-dataset) and put in data folder
 
 ## Build docker image
 
